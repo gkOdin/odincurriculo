@@ -195,11 +195,18 @@
   float: right;
   text-align: right;
 }
-#cvmain .section-education .school,
-#cvmain .section-work .job_title {
+.school {
   font-size: 100%;
   display: block;
   margin: 5px 0 5px 0;
+}
+
+.WorkDescription {
+  font-size: 100%;
+  display: block;
+  margin: 5px 0 5px 0;
+  width: 49%;
+  float: left;
 }
 
 #cvmain #photo {
